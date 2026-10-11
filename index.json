@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "apscheduler",
+  "versions": [
+    {
+      "commit": "a660860d841c5426ec3b7ed2d4ada8fe168710f1",
+      "tag": "",
+      "parsed_at": "2026-10-11T05:10:20.113616+00:00"
+    }
+  ]
+}
